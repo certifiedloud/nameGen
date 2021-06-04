@@ -1,1 +1,1 @@
-The best name generator cli
+A name generator cli
